@@ -1,0 +1,8 @@
+.movielist {
+    overflow-x: auto;
+    max-height: 44rem;
+}
+
+.movielist::-webkit-scrollbar {
+    display: none;
+}
